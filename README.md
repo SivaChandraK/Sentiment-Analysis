@@ -32,8 +32,12 @@ The repository consists of the following main scripts:
 - It assigns **sentiment scores and sentiment tags** to each comment.
 - The script then **analyzes sentiment trends** and generates:
   - 📊 **Hourly sentiment trends**
+  ![image](https://github.com/user-attachments/assets/b925586c-d942-47ab-bcad-999c8a3f3c1a)
+
   - 📈 **Comment engagement trends**
   - ☁️ **Word clouds for key discussion topics**
+  ![image](https://github.com/user-attachments/assets/a3886234-4cd7-4175-a4f9-1f8a3d24b599)
+
   - ⭐ **Star rating distributions based on sentiment**
 ![image](https://github.com/user-attachments/assets/a69f4492-4da5-41e9-83f8-b773fcaabda6)
 
