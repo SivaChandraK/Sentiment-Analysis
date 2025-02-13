@@ -35,6 +35,7 @@ The repository consists of the following main scripts:
   - 📈 **Comment engagement trends**
   - ☁️ **Word clouds for key discussion topics**
   - ⭐ **Star rating distributions based on sentiment**
+![image](https://github.com/user-attachments/assets/a69f4492-4da5-41e9-83f8-b773fcaabda6)
 
 ---
 
